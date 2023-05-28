@@ -1,0 +1,2 @@
+# python
+Tự học Python
